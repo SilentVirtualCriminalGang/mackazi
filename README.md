@@ -1,11 +1,11 @@
-# 🚀 NetVendor
+# 🚀 Mac Lookup by Kazi 
 
 ![Overview](docs/images/overview.png)
 *NetVendor provides comprehensive network device analysis and visualization*
 
 ## 📖 Introduction
 
-**NetVendor** is a Python tool for network administrators and cybersecurity professionals to analyze and visualize the vendor distribution of devices on a network. It processes MAC address tables and ARP data from a wide range of network devices (including Cisco, HP/Aruba, Juniper, Extreme, Brocade, and more), providing detailed insights into your network's composition.
+**Kazi** is a Python tool for network administrators and cybersecurity professionals to analyze and visualize the vendor distribution of devices on a network. It processes MAC address tables and ARP data from a wide range of network devices (including Cisco, HP/Aruba, Juniper, Extreme, Brocade, and more), providing detailed insights into your network's composition.
 
 ---
 
@@ -31,8 +31,8 @@
 ### Installation
 
 ```bash
-git clone https://github.com/StewAlexander-com/NetVendor.git
-cd NetVendor
+git clone https://github.com/SilentVirtualCriminalGang/mackazi
+cd mackazi
 pip install -e .
 ```
 
@@ -43,7 +43,7 @@ pip install -e .
 ### Basic Command
 
 ```bash
-netvendor input_file.txt
+mackazi input_file.txt
 ```
 
 ### Windows Usage
